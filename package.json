@@ -1,0 +1,27 @@
+{
+  "name": "mattress-marketer",
+  "version": "1.0.0",
+  "description": "mattressmarketer.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustinboling/mattress-marketer.git"
+  },
+  "keywords": [
+    "tailwind",
+    "tailwindui"
+  ],
+  "author": "Dustin Boling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dustinboling/mattress-marketer/issues"
+  },
+  "homepage": "https://github.com/dustinboling/mattress-marketer#readme",
+  "dependencies": {
+    "@tailwindcss/ui": "^0.5.0",
+    "tailwindcss": "^1.6.1"
+  }
+}
